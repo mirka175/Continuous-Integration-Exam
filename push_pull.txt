@@ -1,1 +1,1 @@
-Testing push and pull
+Push test
